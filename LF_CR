@@ -1,0 +1,9 @@
+LF(LineFeed) = \n
+CR(Carriage Return) = \r
+
+
+OS                              换行符
+Unix                              LF        
+Windows                         CR+LF
+Mac OS 9 before                   CR
+
